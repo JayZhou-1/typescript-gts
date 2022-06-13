@@ -17,4 +17,5 @@ result: https://github.com/JayZhou-1/typescript-learning
 # Notes
 
 * generated index.js is in `build/src/index.js`
+* gts means: **Google TypeScript Style**
 
